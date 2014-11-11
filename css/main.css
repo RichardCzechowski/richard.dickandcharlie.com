@@ -1,0 +1,8 @@
+/*cusom styles*/
+
+p>i{
+    font-size: 1.5em;
+    margin-left:.1em;
+}
+
+.tooltip > .tooltip-inner {background-color: #4C2866;}
