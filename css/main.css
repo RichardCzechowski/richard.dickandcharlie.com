@@ -1,8 +1,32 @@
 /*cusom styles*/
 
-p>i{
+p{
     font-size: 1.5em;
+}
+
+p > i{
     margin-left:.1em;
 }
 
 .tooltip > .tooltip-inner {background-color: #4C2866;}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #29add4;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #29add4;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #29add4;
+}
+
+.btn-success{
+    background-color: #29add4;
+    border-color: #29add4;
+}
+
+.skills >i{
+    margin-left: 1em;
+}
