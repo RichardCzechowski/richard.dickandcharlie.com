@@ -1,3 +1,10 @@
+.depricated{
+  font-size: 10px;
+}
+
+.modal-backdrop {
+  display:none;
+}
 /*cusom styles*/
 
 p{
